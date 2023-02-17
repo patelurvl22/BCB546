@@ -1,2 +1,0 @@
--rw-r--r--. 1 upatel domain users 11M Feb 12 19:01 fang_et_al_genotypes.txt
--rw-r--r--. 1 upatel domain users 81K Feb 12 19:01 snp_position.txt
